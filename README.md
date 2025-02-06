@@ -15,8 +15,8 @@ Kaggle-Ready: Designed with Kaggle competitions in mind, making it easier to app
 
 Getting Started
 Clone the Repository:
-git clone https://github.com/yourusername/machine-learning-framework.git
-cd machine-learning-framework
+git clone https://github.com/minh-cong/ml_proj_template.git
+cd mlframework
 
 Install Dependencies:
 pip install -r requirements.txt
