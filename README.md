@@ -16,51 +16,8 @@ Kaggle-Ready: Designed with Kaggle competitions in mind, making it easier to app
 Getting Started
 Clone the Repository:
 git clone https://github.com/minh-cong/ml_proj_template.git
-cd mlframework
+cd ml_proj_template
 
-Install Dependencies:
-pip install -r requirements.txt
-Explore the Framework:
-
-Navigate through the notebooks/ directory for example workflows and tutorials.
-
-Check out the src/ directory for the core framework code.
-
-Run an Example:
-
-Use the provided example scripts or notebooks to see the framework in action.
-
-Usage
-To use the framework for your own machine learning problem:
-
-Prepare Your Data:
-
-Ensure your dataset is in a compatible format (e.g., CSV, JSON).
-
-Use the provided data preprocessing utilities to clean and prepare your data.
-
-Define Your Problem:
-
-Specify whether your problem is a classification, regression, or other type of task.
-
-Configure the appropriate model and evaluation metrics.
-
-Train and Evaluate:
-
-Use the framework's training pipeline to train your model.
-
-Evaluate the model's performance using cross-validation or a hold-out test set.
-
-Optimize and Iterate:
-
-Experiment with different models, hyperparameters, and feature engineering techniques.
-
-Use the framework's tools to track and compare results.
-
-Contributing
-Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
-
-License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Acknowledgments
